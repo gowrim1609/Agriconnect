@@ -12,4 +12,5 @@ Agriconnect is a web-based platform designed to help farmers with crop insights,
 - Backend: Python / Flask
 - Database: MySQL (optional)
 
-## Screenshots
+
+
